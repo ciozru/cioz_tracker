@@ -24,8 +24,8 @@ git clone https://github.com/ciozru/cioz_tracker
 cd cioz_tracker
 ```
 ```
-python3 cioz.py
-```
-```
 pip3 install -r requirements.txt
+```
+```
+python3 cioz.py
 ```
